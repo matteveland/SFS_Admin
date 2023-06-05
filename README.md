@@ -7,3 +7,6 @@ SFS Admin is a project I stated when I began learning to progam. Over the years 
 **login:** steve_NONADMIN **password:** mxh4FER6mja!qwk5yhm <br>
 <br>
 You can add a new unit at the following link: https://demo.sfsadmin.com/resources/Admin/Set-up/1-set-up-unit-name.php
+
+
+Any password listed within was create for this demo an should not be used. 
