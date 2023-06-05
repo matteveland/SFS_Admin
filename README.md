@@ -11,4 +11,4 @@ Users are seperated between admin and non_admin. There are additional permission
 You can add a new unit at the following link: https://demo.sfsadmin.com/resources/Admin/Set-up/1-set-up-unit-name.php
 
 
-<i>Any password listed within was create for this demo an should not be used.<i> 
+<i>Any passwords listed within were created for this demo and should not be used.<i> 
